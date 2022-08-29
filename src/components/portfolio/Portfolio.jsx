@@ -14,7 +14,7 @@ const data = [
     id:1,
     image: fo,
     title: 'Food & Menu Website',
-    github: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/Food.com' ,
     demo: 'https://github.com' ,
   },
   {
@@ -42,8 +42,8 @@ const data = [
     id:5,
     image: po,
     title: 'Personal Portfolio Website',
-    github: 'https://github.com' ,
-    demo: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/my-porfolio-website' ,
+    demo: 'https://mahmoudz2020.github.io/my-porfolio-website' ,
   },
   {
     id:6,
