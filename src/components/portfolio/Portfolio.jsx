@@ -43,7 +43,11 @@ const data = [
     image: po,
     title: 'Personal Portfolio Website',
     github: 'https://github.com/mahmoudZ2020/my-porfolio-website' ,
+<<<<<<< Updated upstream
     demo: 'https://mahmoudz2020.github.io/my-porfolio-website' ,
+=======
+    demo: 'https://mahmoudz2020.github.io/my-porfolio-website/' ,
+>>>>>>> Stashed changes
   },
   {
     id:6,
