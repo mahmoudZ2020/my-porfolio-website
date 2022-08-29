@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-porfolio-website/static/css/main.b4afc48a.css",
+    "main.js": "/my-porfolio-website/static/js/main.255f2d08.js",
+    "static/media/Resume.pdf": "/my-porfolio-website/static/media/Resume.27c620e52afd412fe8d2.pdf",
+    "static/media/meee.png": "/my-porfolio-website/static/media/meee.d2244a197cf5ef97dfca.png",
+    "static/media/mee-about.jpg": "/my-porfolio-website/static/media/mee-about.feb33f0f9bc649df9d85.jpg",
+    "static/media/sb.png": "/my-porfolio-website/static/media/sb.cb740203075d3f65dde8.png",
+    "static/media/wa.png": "/my-porfolio-website/static/media/wa.3bf7b7396451677d9b65.png",
+    "static/media/po.png": "/my-porfolio-website/static/media/po.f0b4298314bb1ce0f071.png",
+    "static/media/cr.png": "/my-porfolio-website/static/media/cr.223a9cb85fe5995ef74a.png",
+    "static/media/to.png": "/my-porfolio-website/static/media/to.dbc2be8ebb821eb88651.png",
+    "static/media/fo.jpg": "/my-porfolio-website/static/media/fo.f84095e83004dd71689e.jpg",
+    "index.html": "/my-porfolio-website/index.html",
+    "main.b4afc48a.css.map": "/my-porfolio-website/static/css/main.b4afc48a.css.map",
+    "main.255f2d08.js.map": "/my-porfolio-website/static/js/main.255f2d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4afc48a.css",
+    "static/js/main.255f2d08.js"
+  ]
+}
