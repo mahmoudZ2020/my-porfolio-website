@@ -21,21 +21,21 @@ const data = [
     id:2,
     image: cr,
     title: 'Products Management System',
-    github: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/CRUD_APP' ,
     demo: 'https://github.com' ,
   },
   {
     id:3,
     image: wa,
     title: 'Weather Web Application',
-    github: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/WeatherApp-API' ,
     demo: 'https://github.com' ,
   },
   {
     id:4,
     image: to,
     title: 'Todo List App',
-    github: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/Todo-List' ,
     demo: 'https://github.com' ,
   },
   {
@@ -49,7 +49,7 @@ const data = [
     id:6,
     image: sb,
     title: 'Starbucks Brand Website',
-    github: 'https://github.com' ,
+    github: 'https://github.com/mahmoudZ2020/Starbucks-landing-page' ,
     demo: 'https://github.com' ,
   }
  
